@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 About me
+## About me
 
 AI/ML developer with experience in **computer vision, real-time systems and immersive applications**. I've built projects across machine learning, game development and blockchain, including gesture-based input systems, VR environments and interactive games.
 
@@ -21,26 +21,56 @@ AI/ML developer with experience in **computer vision, real-time systems and imme
 - 💼 Software Developer Intern at **NITI Aayog** (AI-driven resume parsing & ATS optimisation)
 - 🎮 Chairperson, **GameDev Guild** at GGSIPU-EDC, building games in Unity with my team
 - 🤝 Training & Placement Coordinator at USAR, GGSIPU-EDC
-- 💬 Ask me about: Python, OpenCV, Unity, WebVR, ML pipelines
+- 💬 Ask me about: Machine Learning, Computer Vision, Unity, AR-VR, Web-Dev
 
-## 🧰 Tech stack
+## Tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cs,java,c,mysql,git,docker,tensorflow,sklearn,opencv,unity,threejs&theme=dark" alt="Tech stack" />
+**Languages**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=py,cs,java,c,js,mysql,html,css&theme=dark" alt="Languages" />
+
+**Frameworks, libraries & engines**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,numpy,fastapi,nodejs,unity,threejs&theme=dark" alt="Frameworks and libraries" />
 
 ![A-Frame](https://img.shields.io/badge/A--Frame-EF2D5E?style=flat-square&logo=aframe&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Domains:** Machine Learning · Computer Vision · Blockchain · VR Development · Game Development
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="Tools" />
+
+**Domains**
+
+Machine Learning · Computer Vision · Blockchain · VR Development · Game Development
+
+**Techniques & concepts**
+
+![CNN](https://img.shields.io/badge/CNN-0f2027?style=flat-square)
+![SVM](https://img.shields.io/badge/SVM-0f2027?style=flat-square)
+![PCA](https://img.shields.io/badge/PCA-0f2027?style=flat-square)
+![Q-Learning](https://img.shields.io/badge/Q--Learning-0f2027?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-0f2027?style=flat-square)
+![Gesture Recognition](https://img.shields.io/badge/Gesture%20Recognition-0f2027?style=flat-square)
+![Resume Parsing / ATS](https://img.shields.io/badge/Resume%20Parsing%20%2F%20ATS-0f2027?style=flat-square)
+![WebVR](https://img.shields.io/badge/WebVR-0f2027?style=flat-square)
+![NFTs](https://img.shields.io/badge/NFTs-0f2027?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0f2027?style=flat-square)
+
+**Core strengths**
+
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2c5364?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA-2c5364?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-2c5364?style=flat-square)
+![Rapid Prototyping](https://img.shields.io/badge/Rapid%20Prototyping-2c5364?style=flat-square)
+![Project Management](https://img.shields.io/badge/Project%20Management-2c5364?style=flat-square)
+![Leadership](https://img.shields.io/badge/Leadership-2c5364?style=flat-square)
+![Communication](https://img.shields.io/badge/Communication-2c5364?style=flat-square)
 
 </div>
 
-## 🚀 Featured projects
+## Featured projects
 
 <table>
   <tr>
@@ -93,7 +123,7 @@ AI/ML developer with experience in **computer vision, real-time systems and imme
   </tr>
 </table>
 
-## 📊 GitHub stats
+## GitHub stats
 
 <div align="center">
 
